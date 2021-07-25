@@ -17,3 +17,4 @@
 ### Information
 - How do I run it? node emailrep.js
 - Email Rep has a query limmit via limitting queries to your IP.
+- I recommened not changing your IP to bypass the query limit.
