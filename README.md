@@ -16,4 +16,4 @@
 
 ### Information
 - How do I run it? node emailrep.js
-- Email Rep has a query limmit via limmiting queries to you IP.
+- Email Rep has a query limmit via limitting queries to your IP.
