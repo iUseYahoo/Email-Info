@@ -4,6 +4,7 @@
         <img src="https://www.codefactor.io/Content/badges/APlus.svg">
     </a>
 </p>
+- Status: Working.
 
 ### Software Needed
 - [Nodejs](https://nodejs.org/en/download/)
