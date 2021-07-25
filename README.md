@@ -1,4 +1,9 @@
 ### Email Rep Open Source
+<p>
+    <a href="https://www.codefactor.io/repository/github/iuseyahoo/email-info">
+        <img src="https://www.codefactor.io/Content/badges/APlus.svg">
+    </a>
+</p>
 
 ### Software Needed
 - [Nodejs](https://nodejs.org/en/download/)
