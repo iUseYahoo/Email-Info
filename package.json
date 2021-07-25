@@ -1,0 +1,17 @@
+{
+  "name": "emailrep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "emailrep.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ajax": "^0.0.4",
+    "chalk": "^4.1.1",
+    "got": "^11.8.2",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
