@@ -3,8 +3,11 @@
     <a href="https://www.codefactor.io/repository/github/iuseyahoo/email-info">
         <img src="https://www.codefactor.io/Content/badges/APlus.svg">
     </a>
+    <a>
+        <img src="https://img.shields.io/badge/Status-Working-green">
+    </a>
 </p>
-- Status: Working.
+
 
 ### Software Needed
 - [Nodejs](https://nodejs.org/en/download/)
